@@ -1,5 +1,6 @@
 # Early Exit with Disentangled Representation and Equiangular Tight Frame
 This repo contains the code for baselines for "Early Exit with Disentangled Representation and Equiangular Tight Frame".
+(https://aclanthology.org/2023.findings-acl.889/)
 
 
 
